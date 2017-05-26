@@ -26,3 +26,21 @@ def vectorized_result(j):
     e = np.zeros((10, 1))
     e[j] = 1.0
     return e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#We have referred http://neuralnetworksanddeeplearning.com/chap1.html for learning neural networks and working on the problem
+
