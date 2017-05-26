@@ -181,3 +181,9 @@ def sigmoid(z):
 
 def sigmoid_prime(z):
     return sigmoid(z)*(1-sigmoid(z))
+
+
+
+
+#We have referred http://neuralnetworksanddeeplearning.com/chap1.html for learning neural networks and working on the problem
+
